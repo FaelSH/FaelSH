@@ -11,6 +11,7 @@
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=FaelSH&show_icons=true"
+    <a href="https://github.com/FaelSH" target_blank
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=FaelSH&show_icons=true" />
